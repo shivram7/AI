@@ -56,6 +56,5 @@ This project processes Reddit submissions and comments from specified subreddits
 - Optimize vector database storage and retrieval performance.
 - Enhance the RAG model for better contextual understanding.
 
-## Author
-Shivani Ramesh
+
 
